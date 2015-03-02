@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">GitTestA</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="hello_world2">こんにちわ</string>
-    <string name="action_settings">Settings</string>
-</resources>
